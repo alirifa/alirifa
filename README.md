@@ -2,7 +2,7 @@
 
 I’m currently a student at Bauer College of Business, University of Houston.
 
-I am interested in UX/UI design, and hope to improve my web developement/design skills.
+I am enjoy UX/UI design, and hope to improve my web developement/design skills.
 
 e-mail: alirifa23@gmail.com
 
