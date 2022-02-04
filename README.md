@@ -3,7 +3,7 @@
 - I am interested in UX/UI design, and hope to improve my web developement/design skills.
 
 - email: alirifa23@gmail.com
-- instagram: [https://www.instagram.com/rifaa.jpg/]
+- instagram: [@rifaa.jpg](https://www.instagram.com/rifaa.jpg/)
 
 
 <!---
