@@ -4,9 +4,4 @@
 
 - email: alirifa23@gmail.com
 - instagram: [@rifaa.jpg](https://www.instagram.com/rifaa.jpg/)
-- [https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png]
-
-<!---
-alirifa/alirifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
