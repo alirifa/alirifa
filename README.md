@@ -1,6 +1,6 @@
 ### :wave: Hello, I’m Rifa!
 
-I’m currently a student at C.T. Bauer College of Business, University of Houston.
+I’m currently an Accounting student at C.T. Bauer College of Business, and I plan to minor in Management Information Systems.
 
 
 e-mail: alirifa23@gmail.com
